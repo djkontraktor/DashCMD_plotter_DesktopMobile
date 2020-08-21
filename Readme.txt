@@ -1,4 +1,4 @@
-Welcome to William Christian's DashCmd Reader for both iPhone and Desktop.
+Welcome to my DashCmd Reader for both iPhone and Desktop.
 
 Android smartphones have not been tested, but may work with the mobile program.
 
